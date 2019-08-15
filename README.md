@@ -1,7 +1,8 @@
 # webinar-registration
 
 This demo project shows the use of optional named slots on Vue js.
-The `WebinarRegistration` component can be used with a header or footer slots.
+The `WebinarRegistration` component can be used with a `header` or `footer` optional components
+
 
 ### Simple example - Default content
 ``` html
